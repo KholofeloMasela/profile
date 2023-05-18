@@ -3,6 +3,8 @@ A React portfolio about me , My exeprience, the tech stacks I'm familiar with an
 
 # Installation
 After opening the app run `npm install`
+You can run the app using `npm start run`
+npm i mdb-react-ui-kit
 
 #How to use the project
 It's a simple web profile and there navigation bars at the top of the page that you can use to go through it.
