@@ -1,0 +1,40 @@
+02-06-2023 11:53:25.680 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-06-2023 11:53:25.681 [Gauge] [INFO] Initializing specs cache with 0 specs
+02-06-2023 11:53:25.682 [Gauge] [INFO] Initializing steps cache with 0 steps
+02-06-2023 11:53:25.682 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+02-06-2023 11:53:25.682 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+02-06-2023 11:53:25.682 [Gauge] [ERROR] Unable to add directory /home/kholofelo/Documents/profile/public/specs to file watcher: no such file or directory
+02-06-2023 11:53:25.696 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+02-06-2023 11:53:25.697 [Gauge] [ERROR] Specs directory specs does not exists.
+02-06-2023 11:53:25.738 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-06-2023 11:53:25.738 [Gauge] [INFO] Initializing specs cache with 0 specs
+02-06-2023 11:53:25.738 [Gauge] [INFO] Initializing steps cache with 0 steps
+02-06-2023 11:53:25.738 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+02-06-2023 11:53:25.738 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+02-06-2023 11:53:25.738 [Gauge] [ERROR] Unable to add directory /home/kholofelo/Documents/profile/public/specs to file watcher: no such file or directory
+02-06-2023 11:53:25.744 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+02-06-2023 11:53:25.745 [Gauge] [ERROR] Specs directory specs does not exists.
+02-06-2023 11:53:25.768 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-06-2023 11:53:25.768 [Gauge] [INFO] Initializing specs cache with 0 specs
+02-06-2023 11:53:25.768 [Gauge] [INFO] Initializing steps cache with 0 steps
+02-06-2023 11:53:25.768 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+02-06-2023 11:53:25.768 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+02-06-2023 11:53:25.768 [Gauge] [ERROR] Unable to add directory /home/kholofelo/Documents/profile/public/specs to file watcher: no such file or directory
+02-06-2023 11:53:25.772 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+02-06-2023 11:53:25.773 [Gauge] [ERROR] Specs directory specs does not exists.
+02-06-2023 11:53:25.800 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-06-2023 11:53:25.801 [Gauge] [INFO] Initializing specs cache with 0 specs
+02-06-2023 11:53:25.801 [Gauge] [INFO] Initializing steps cache with 0 steps
+02-06-2023 11:53:25.801 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+02-06-2023 11:53:25.801 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+02-06-2023 11:53:25.801 [Gauge] [ERROR] Unable to add directory /home/kholofelo/Documents/profile/public/specs to file watcher: no such file or directory
+02-06-2023 11:53:25.806 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+02-06-2023 11:53:25.806 [Gauge] [ERROR] Specs directory specs does not exists.
+02-06-2023 11:53:25.828 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-06-2023 11:53:25.828 [Gauge] [INFO] Initializing specs cache with 0 specs
+02-06-2023 11:53:25.828 [Gauge] [INFO] Initializing steps cache with 0 steps
+02-06-2023 11:53:25.828 [Gauge] [DEBUG] There are version incompatibilities between Gauge and it's plugins in this project. Some features will not work as expected.
+02-06-2023 11:53:25.828 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+02-06-2023 11:53:25.828 [Gauge] [ERROR] Unable to add directory /home/kholofelo/Documents/profile/public/specs to file watcher: no such file or directory
+02-06-2023 11:53:25.834 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+02-06-2023 11:53:25.835 [Gauge] [ERROR] Specs directory specs does not exists.
