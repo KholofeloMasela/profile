@@ -21,13 +21,13 @@ export const projects = [
   },
   {
     title: "Magic squares",
-    image: "./webApp.png",
-    link: "https://github.com/KholofeloMasela/Mukhuru_Hackathon",
+    image: "./cloud.jpeg",
+    link: "https://github.com/KholofeloMasela/magic_squares",
   },
   {
     title: "Cloud storage",
-    image: "./webApp.png",
-    link: "https://github.com/KholofeloMasela/Mukhuru_Hackathon",
+    image: "./magic.png",
+    link: "https://github.com/KholofeloMasela/cloud_storage",
   },
 ];
 
