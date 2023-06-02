@@ -21,12 +21,12 @@ export const projects = [
   },
   {
     title: "Magic squares",
-    image: "./cloud.jpeg",
+    image: "./magic.png",
     link: "https://github.com/KholofeloMasela/magic_squares",
   },
   {
     title: "Cloud storage",
-    image: "./magic.png",
+    image: "./cloud.jpeg",
     link: "https://github.com/KholofeloMasela/cloud_storage",
   },
 ];
