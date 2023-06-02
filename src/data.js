@@ -19,6 +19,16 @@ export const projects = [
     image: "./webApp.png",
     link: "https://github.com/KholofeloMasela/Mukhuru_Hackathon",
   },
+  {
+    title: "Magic squares",
+    image: "./webApp.png",
+    link: "https://github.com/KholofeloMasela/Mukhuru_Hackathon",
+  },
+  {
+    title: "Cloud storage",
+    image: "./webApp.png",
+    link: "https://github.com/KholofeloMasela/Mukhuru_Hackathon",
+  },
 ];
 
 
